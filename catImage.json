@@ -1,0 +1,20 @@
+[  
+   {  
+      "Name":"Santosh",
+      "City":"Trichy",
+      "Country":"India",
+      "Image":"http://gaddieltech.fatcow.com/AndroidPhotoUpload/image.jpg"
+   },
+   {  
+      "Name":"Bala",
+      "City":"Madurai",
+      "Country":"India",
+      "Image":"http://gaddieltech.fatcow.com/AndroidPhotoUpload/image.jpg"
+   },
+   {  
+      "Name":"Arnold",
+      "City":"Kovi",
+      "Country":"India",
+      "Image":"http://gaddieltech.fatcow.com/AndroidPhotoUpload/image.jpg"
+   }
+]
